@@ -1,61 +1,27 @@
-<h1 align="center">🦅 AUTOBOT-VRN 🦅</h1>
+# 🚀 AUTOMATEDBOT‑V3.0
+*New Released Automated Bot (2026)* — The ultimate **modular, lightning‑fast Messenger automation framework** built with `ws3‑fca` for power users, admins, and developers. ([github.com](https://github.com/vernesg/AutomatedBot-V3.0))
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNHVkdnlnNGV5MWF6b3FsdGM4MnJyaGloZm84bTVldGhkM29lNTNhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6wdZAQm2unplu/giphy.gif" alt="AUTOBOT-VRN" width="400" style="border-radius: 12px; box-shadow: 0 0 20px #00f2ff;">
-</p>
-
-<p align="center">
-  <b>The ultimate Facebook Messenger bot framework built with <code>ws3-fca</code> for lightning-fast, modular automation.</b><br/>
-  Designed for power users, admins, and developers who want control, speed, and customization.
-</p>
-
-<p align="center">
-  <a href="https://github.com/vernesg/autobot-vrn/stargazers">
-    <img src="https://img.shields.io/github/stars/vernesg/autobot-vrn?style=for-the-badge" alt="Stars">
-  </a>
-  <a href="https://github.com/vernesg/autobot-vrn/fork">
-    <img src="https://img.shields.io/github/forks/vernesg/autobot-vrn?style=for-the-badge" alt="Forks">
-  </a>
-  <a href="https://github.com/vernesg/autobot-vrn/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/vernesg/autobot-vrn?style=for-the-badge" alt="License">
-  </a>
-</p>
+![Autobot Hero](https://raw.githubusercontent.com/vernesg/AutomatedBot-V3.0/main/public/hero.png)
 
 ---
 
-### 🚀 Live Bot Access
+## 🎉 Features ✨
 
-💡 Experience the bot instantly:  
-🌐 **[Launch AUTOBOT-VRN on Render](https://vernesg-auto-bot.onrender.com/)**
-
-> ⚠️ *Note: This is free to use just click the website above.*
-
----
-
-### ✨ Features
-
-- 🔐 **Login via Facebook cookies** — no need for email/password  
-- 🧩 **Modular Command System** — easily extend with custom `/modules/`  
-- 🧠 **Auto-replies & Smart Responses** — fully customizable  
-- 🎲 **Mini-Games & Spam Utilities** — interact and play  
-- 👑 **Admin Commands** — protect your bot with role-based actions  
-- 🧬 **Toggleable Modes (vernmode, autoreact, etc.)** — switch behaviors instantly  
-- 🧾 **Local JSON Database** — config, cache, state — all saved  
-- ⏱ **Scheduled Messages & Responses** — automate at intervals  
-- 📎 **Media Support** — images, GIFs, attachments via command  
-- 🎛 **Hot-Reload Support** — update modules without restart  
+✔ Login via **Facebook cookies** — no email/password needed  
+✔ Modular **custom commands** & plugins  
+✔ **Auto‑replies & smart responses**  
+✔ **Mini‑games & utilities** for interaction  
+✔ **Admin role controls & protected commands**  
+✔ Toggleable modes (*vernmode, autoreact, etc.*)  
+✔ Local **JSON storage** for configs/data  
+✔ **Scheduled messages** & automated replies  
+✔ **Hot‑reload module system** — no restart needed
 
 ---
 
-### 📦 Installation
+## 📦 Installation & Setup
 
+### 1️⃣ Clone the Repository
 ```bash
-# Clone the repo
-git clone https://github.com/vernesg/autobot-vrn.git
-cd autobot-vrn
-
-# Install dependencies
-npm install
-
-# Add your Facebook cookie in the config
-nano config.json
+git clone https://github.com/vernesg/AutomatedBot-V3.0.git
+cd AutomatedBot-V3.0
