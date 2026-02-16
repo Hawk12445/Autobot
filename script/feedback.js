@@ -10,7 +10,7 @@ module.exports.config = {
 };
 
 module.exports.run = async function({ api, event, args }) {
-  const ADMIN_UID = "61576920532388";
+  const ADMIN_UID = "61556388598622";
   const feedbackText = args.join(" ").trim();
 
   if (!feedbackText) {
